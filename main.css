@@ -118,7 +118,7 @@ nav{
 .container .logo {
 						margin-top: 20px;
 						margin-bottom: 10px;
-						cursor: wait;
+						cursor: pointer;
 }
 
 .container img {
